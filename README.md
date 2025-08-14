@@ -118,27 +118,17 @@ Suggested flow to record:
 
 ## Screenshots
 
-Place images in a `screenshots/` folder and keep these names for convenience:
-
-```
-screenshots/
-  onboarding-buyer.png
-  onboarding-seller.png
-  marketplace.png
-  buyer-profile-modal.png
-  matches.png
-  deal-room.png
-```
-
 Markdown references:
 
 ```md
-![Buyer Onboarding](screenshots/onboarding-buyer.png)
-![Seller Onboarding](screenshots/onboarding-seller.png)
-![Marketplace](screenshots/marketplace.png)
-![Buyer Profile Modal](screenshots/buyer-profile-modal.png)
-![Matches](screenshots/matches.png)
-![Deal Room](screenshots/deal-room.png)
+![Buyer Onboarding](Snapshots/buyer.jpg)
+![Seller Onboarding](Snapshots/seller.jpg)
+![Marketplace](Snapshots/marketplace.jpg)
+![matches](Snapshots/matches.jpg)
+![deal room](Snapshots/deal room.jpg)
+![Profile](Snapshots/profile.jpg)
+![Setting](Snapshots/setting.jpg)
+
 ```
 
 ---
