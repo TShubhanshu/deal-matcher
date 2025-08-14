@@ -3,8 +3,6 @@
 An approachable, **AI-assisted** React UI that connects **business sellers** with **qualified buyers**.
 Like Bumble’s “flip,” **sellers initiate** conversations with buyers. After a match, both parties collaborate in a guided **Deal Room** that reduces friction and maximizes completion rates.
 
-> This repository contains a **single-file** React UI demo focused on UX, design language, and flow. Data is mocked; uploads/AI are simulated.
-
 ---
 
 ## Table of Contents
@@ -105,7 +103,7 @@ Most acquisition platforms feel complex and fragmented. **DealMatch** delivers a
 
 Add your walkthrough link here after recording:
 
-**Video:** `https://YOUR-VIDEO-LINK`
+**Video:** `https://drive.google.com/file/d/15yY9CQb3ahgIZBVpZy05apq1I4C950nb/view?usp=sharing`
 
 Suggested flow to record:
 
@@ -244,9 +242,8 @@ npm run preview
 
 ## Project Links
 
-* **GitHub Repo:** `https://github.com/YOUR-USERNAME/dealmatch`
-* **Live Demo:** `https://YOUR-VERCEL-DEPLOY`
-* **Video:** `https://YOUR-VIDEO-LINK`
+* **GitHub Repo:** `https://github.com/TShubhanshu/deal-matcher`
+* **Video:** `https://drive.google.com/file/d/15yY9CQb3ahgIZBVpZy05apq1I4C950nb/view?usp=sharing`
 
 ---
 
